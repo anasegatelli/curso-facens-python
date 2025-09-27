@@ -1,0 +1,4 @@
+Esta é a primeira linha.
+Aqui está a segunda linha.
+A terceira linha é curta.
+E esta é a última, a quarta linha.
