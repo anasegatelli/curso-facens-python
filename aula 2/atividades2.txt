@@ -1,4 +1,10 @@
 criar menu
 Iniciado
 testar codigo
+ERRO
+teste 2
+Não iniciado
+testando strip
+Não iniciado
+testando com strip
 Não iniciado

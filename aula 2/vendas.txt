@@ -1,0 +1,4 @@
+Nome do Produto;Quantidade;Valor de Venda
+Shampoo;30;30.00
+Condicionador;10;10.00
+hidratante;20;10.00
