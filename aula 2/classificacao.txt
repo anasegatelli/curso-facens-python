@@ -1,0 +1,5 @@
+15: Positivo
+-3.5: Negativo
+0: Zero
+22.75: Positivo
+-0.001: Negativo
