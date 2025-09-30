@@ -1,0 +1,5 @@
+O numero: 1 é Impar
+O numero: 2 é Par
+O numero: 3 é Impar
+O numero: 4 é Par
+O numero: 5 é Impar
