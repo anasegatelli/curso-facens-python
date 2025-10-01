@@ -1,0 +1,7 @@
+João Silva, 8.5, 7.0, 9.0
+    Maria Souza, 6.0, 5.5, 7.0
+    Pedro Almeida, 10.0, 9.5, 9.0
+    Ana Paula, 4.0, 6.0, 6.5
+    Linha Com Erro
+    José Santos, 7.0, NotaInvalida, 8.0
+    Carla Nogueira, 7.0, 7.0, 7.0

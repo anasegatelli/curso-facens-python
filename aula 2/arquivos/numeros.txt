@@ -1,6 +1,6 @@
 15
         -3.5
         0
-        TextoInvalido
+        NãoNumerico
         22.75
         -0.001
