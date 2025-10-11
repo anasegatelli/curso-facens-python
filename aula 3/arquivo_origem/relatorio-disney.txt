@@ -1,0 +1,28 @@
+================================================
+        RELATÓRIO DE ANÁLISE DISNEY+
+================================================
+
+--- MÉDIAS DE NOTAS E VOTOS (APENAS FILMES) ---
+Média IMDB de Filmes: 0.00
+Média Metascore de Filmes: 0.00
+Média de Votos IMDB de Filmes: 0 votos
+
+--- TOP/BOTTOM OCORRÊNCIAS ---
+3 Línguas Mais Usadas: [('Animation', 137), ('Comedy', 74), ('Documentary', 47)]
+3 Línguas Menos Usadas: [('Musical', 1), ('Music', 1), ('Short', 3)]
+
+3 Atores que Mais Aparecem: [('USA', 10), ('Sci-Fi', 6), ('Romance', 4)]
+3 Atores que Menos Aparecem: [('Roger Bollen (character from the book ""Zenon: Girl of the Twenty First Century"")', 1), ('Jeff Pidgeon (story)', 1), ('David Covell (teleplay)', 1)]
+
+--- ANÁLISE DE DIRETORES E LANÇAMENTOS ---
+Diretor com Mais Filmes: English (16 títulos)
+Ano com Mais Lançamentos: N/A (0 títulos)
+Diretor do Filme Mais Popular (IMDB N/A): N/A (Filme: N/A)
+Diretor do Filme Mais Popular (Metascore N/A): N/A (Filme: N/A)
+
+--- PIORES SÉRIES ---
+Pior Série (IMDB): N/A (Nota: N/A)
+Pior Série (Metascore): N/A (Nota: N/A)
+
+--- FILMES COM MÚLTIPLOS LANÇAMENTOS (REMAKES/VERSÕES) ---
+Nenhum filme com múltiplos lançamentos encontrado na amostra.
