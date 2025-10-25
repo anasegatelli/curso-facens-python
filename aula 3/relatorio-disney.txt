@@ -1,0 +1,14 @@
+Média da nota de todos os filmes no IMDB: 6.576479289940828
+Média da nota de todos os filmes no Metascore: 62.06164383561644
+Média do número de votos de todos os filmes no IMDB: 79102.92603550295
+Línguas mais usadas: ['English', 'French', 'Spanish']
+Línguas menos usadas: ['Klingon', 'Bengali', 'Telugu']
+Atores que mais aparecem: ['Clarence Nash', 'Jim Cummings', 'Pinto Colvig']
+Atores que menos aparecem: ['Hynden Walch', 'Allen Covert', 'Tim Federle']
+Diretor que mais aparece: Wilfred Jackson
+Diretor com o filme mais popular no IMDB: Irvin Kershner
+Diretor com o filme mais popular no Metascore: Norman Ferguson
+Ano em que mais filmes foram lançados: 2019
+Pior série segundo a nota IMDB: Bizaardvark
+Pior série segundo a nota Metascore: Não há serie com nota Metascore
+Filmes que possuem mais de um lançamento: {"Pete's Dragon", 'Freaky Friday', 'The Prince and the Pauper', 'The Parent Trap', 'Aladdin', 'Lady and the Tramp', 'The Lion King', 'Swiss Family Robinson', 'Alice in Wonderland', 'Frankenweenie'}
