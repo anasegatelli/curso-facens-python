@@ -1,0 +1,5 @@
+Produto: Camiseta, Quantidade: 2, Preço: 25.0, Valor Total: 50.0
+Produto: Camiseta, Quantidade: 2, Preço: 25.0, Valor Total: 50.0
+Produto: Camiseta, Quantidade: 2, Preço: 25.0, Valor Total: 50.0
+Produto: Calça, Quantidade: 1, Preço: 50.0, Valor Total: 50.0
+Produto: Calça, Quantidade: 1, Preço: 50.0, Valor Total: 50.0

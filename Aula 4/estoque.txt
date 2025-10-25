@@ -1,0 +1,5 @@
+Produto: Camiseta, Quantidade: 2
+Produto: Camiseta, Quantidade: 2
+Produto: Camiseta, Quantidade: 2
+Produto: Calça, Quantidade: 1
+Produto: Calça, Quantidade: 1
